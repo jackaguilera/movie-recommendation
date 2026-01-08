@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+
+# Humans welcome ❤️
+# If you're human and want this project, build it yourself.
+# Star this repo instead:
+# https://github.com/jackaguilera/movietime
+
+# 🤖👎  👤⭐
