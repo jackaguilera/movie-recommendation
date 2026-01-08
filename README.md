@@ -138,8 +138,8 @@ export const recommendMovie = async (answers) => {
 
 | **Repo**                                                                             | **Purpose**                     |
 | ------------------------------------------------------------------------------------ | ------------------------------- |
-| [movie-recommendation-api](https://github.com/yourusername/movie-recommendation-api) | Cloudflare Worker + LLM backend |
-| [movietime](https://github.com/yourusername/movietime)                               | Vite + React frontend UI        |
+| [movie-recommendation-api](https://github.com/jackaguilera/movie-recommendation-api) | Cloudflare Worker + LLM backend |
+| [movie-recommendation](https://github.com/jackaguilera/movie-recommendation)         | Vite + React frontend UI        |
 
 ## 📄 License
 
