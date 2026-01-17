@@ -4,7 +4,7 @@ import Home from "./pages/Home.jsx";
 
 function App() {
   return (
-    <div className="App bg-marquee-nightblue min-h-screen flex flex-col items-center">
+    <div className="  min-h-screen flex flex-col items-center ">
       <Navbar />
       <Home />
     </div>
